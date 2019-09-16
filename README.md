@@ -1,2 +1,2 @@
 # Redis
-Redis安装包
+Redis的安装使用
